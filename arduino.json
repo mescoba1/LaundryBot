@@ -1,0 +1,6 @@
+{
+  "sketch": "src/laundry_bot.ino",
+  "port": "serial:///dev/cu.SLAB_USBtoUART",
+  "board": "NodeMCU-32S",
+  "output": "build/"
+}
